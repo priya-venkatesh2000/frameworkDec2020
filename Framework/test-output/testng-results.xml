@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-30T10:55:36 EST" name="Suite" finished-at="2020-12-30T10:55:36 EST" duration-ms="109">
+    <groups>
+      <group name="regression">
+        <method signature="Test1.printName()[pri:0, instance:testngtest.Test1@12b0404f]" name="printName" class="testngtest.Test1"/>
+      </group> <!-- regression -->
+    </groups>
+    <test started-at="2020-12-30T10:55:36 EST" name="Test" finished-at="2020-12-30T10:55:36 EST" duration-ms="109">
+      <class name="testngtest.Test1">
+        <test-method signature="printName()[pri:0, instance:testngtest.Test1@12b0404f]" started-at="2020-12-30T10:55:36 EST" name="printName" finished-at="2020-12-30T10:55:36 EST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printName -->
+      </class> <!-- testngtest.Test1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
